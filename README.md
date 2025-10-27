@@ -1,6 +1,6 @@
 # Sockets Circuit Tester
 
-# Build the Circuit
+## Build the Circuit
 ![photo of the circuit](circuit_photo.png)
 ![fritzing diagram](circuit.png)
 
