@@ -1,6 +1,6 @@
 # Sockets Circuit Tester
 
-## Build the Circuit
+# Build the Circuit
 ![photo of the circuit](circuit_photo.png)
 ![fritzing diagram](circuit.png)
 
@@ -13,6 +13,8 @@
 Note: the colors don't really matter, use whatever you want.
 
 ## Test it!
+- Open `circuit-tester.ino` in the Arduino IDE.
+- Upload the code to the arduino.
 - Press the button, lights should turn on while the button is pressed
 
 ![gif of working circuit](circuit.gif)
